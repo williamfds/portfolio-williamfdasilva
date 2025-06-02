@@ -1,0 +1,49 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "opensource": "Open Source",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Hello, I'm William Ferreira da Silva",
+    "description": "I'm a Full-stack Developer with solid experience in Delphi, Node.js, NestJS, Java Android, React, Next.js and Java. Currently, my focus is on full-stack development, microservices, Clean Code practices and AWS solutions, as well as actively contributing to Open Source projects. I'm always looking for new challenges and open to participating in initiatives that make a real impact.",
+    "buttonProjects": "See my projects"
+  },
+  "projects": {
+    "allProjects": "All Projects",
+    "demo": "View Demo",
+    "repo": "View Repo"
+  },
+  "opensource": {
+    "title": "Open Source Contributions",
+    "viewPR": "View Pull Request"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Send"
+  },
+  "footer": {
+    "rights": "© {year} William F. da Silva. All rights reserved."
+  },
+  "about": {
+  "title": "About",
+  "paragraph1": "Hi! I’m William Ferreira da Silva, a Full-Stack Developer with experience in Delphi, Node.js, NestJS, Java Android, React, Next.js and Java.",
+  "paragraph2": "Over my career, I’ve built systems ranging from legacy Delphi software to modern microservices-based applications. I’m passionate about Clean Code, architecture best practices, and scalable AWS solutions.",
+  "paragraph3": "I also contribute to Open Source projects and am always seeking new challenges that help me grow as a developer."
+  },
+    "header": {
+    "siteName": "William Silva",
+    "toggleThemeAria": "Toggle light/dark mode"
+  },
+  "localeSwitcher": {
+    "ptTooltip": "Portuguese",
+    "ptAria": "Switch to Portuguese",
+    "enTooltip": "English",
+    "enAria": "Switch to English"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "Sobre",
+    "projects": "Projetos",
+    "opensource": "Open Source",
+    "contact": "Contato"
+  },
+  "hero": {
+    "title": "Olá, eu sou o William Ferreira da Silva",
+    "description": "Sou Desenvolvedor Full-stack com sólida experiência em Delphi, Node.js, NestJS, Java Android, React, Next.js e Java. Atualmente, meu foco está em desenvolvimento full-stack, microsserviços, práticas de Clean Code e soluções na AWS, além de contribuir ativamente para projetos Open Source. Estou sempre em busca de novos desafios e aberto a participar de iniciativas que tenham impacto real.",
+    "buttonProjects": "Veja meus projetos"
+  },
+  "projects": {
+    "allProjects": "Todos os Projetos",
+    "demo": "Ver Demo",
+    "repo": "Ver Repo"
+  },
+  "opensource": {
+    "title": "Contribuições Open Source",
+    "viewPR": "Ver Pull Request"
+  },
+  "contact": {
+    "title": "Fale Comigo",
+    "name": "Nome",
+    "email": "E-mail",
+    "message": "Mensagem",
+    "submit": "Enviar"
+  },
+  "footer": {
+    "rights": "© {year} William F. da Silva. Todos os direitos reservados."
+  },
+  "about": {
+  "title": "Sobre",
+  "paragraph1": "Olá! Eu sou o William Ferreira da Silva, desenvolvedor Full-Stack com experiência em Delphi, Node.js, NestJS, Java Android, React, Next.js e Java.",
+  "paragraph2": "Ao longo da minha carreira, desenvolvi sistemas que vão desde softwares legados em Delphi até aplicações modernas em microserviços. Sou apaixonado por Clean Code, boas práticas de arquitetura e soluções escaláveis na AWS.",
+  "paragraph3": "Além disso, me dedico a contribuir em projetos Open Source e estou sempre em busca de novos desafios que me façam crescer como desenvolvedor."
+  },
+    "header": {
+    "siteName": "William Silva",
+    "toggleThemeAria": "Alternar modo claro/escuro"
+  },
+  "localeSwitcher": {
+    "ptTooltip": "Português",
+    "ptAria": "Mudar para Português",
+    "enTooltip": "Inglês",
+    "enAria": "Mudar para Inglês"
+  }
+}
