@@ -1,4 +1,3 @@
-// Arquivo: src/app/[locale]/layout.tsx
 import { ReactNode } from 'react';
 import { notFound } from 'next/navigation';
 import { LocaleProvider } from '@/contexts/LocaleContext';
